@@ -28,3 +28,9 @@
 *.icns lfs
 # Movies
 *.bk2 lfs
+Saved filter=lfs diff=lfs merge=lfs -text
+Config filter=lfs diff=lfs merge=lfs -text
+Content filter=lfs diff=lfs merge=lfs -text
+DerivedDataCache filter=lfs diff=lfs merge=lfs -text
+GameModeExample.uproject filter=lfs diff=lfs merge=lfs -text
+Intermediate filter=lfs diff=lfs merge=lfs -text
